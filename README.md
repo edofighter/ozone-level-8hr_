@@ -49,5 +49,11 @@ Este proyecto demuestra buenas prácticas en **ML aplicado a datos desbalanceado
 
 - Matriz de confusión para cada modelo, facilitando la interpretación de errores.
 
+---
+
+## ⚡ Instalación
+
+1. Clonar el repositorio:
+```bash
 git clone https://github.com/tuusuario/ml-classification-ozone.git
 cd ml-classification-ozone
