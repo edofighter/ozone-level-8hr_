@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Descripción
-Proyecto de **Machine Learning** para clasificación de niveles de ozono usando el dataset [Ozone Level 8hr](https://www.openml.org/d/179).  
+Proyecto de **Machine Learning** para clasificación de niveles de ozono usando el dataset [Ozone Level 8hr](https://www.openml.org/d/1487).  
 Incluye un **pipeline completo**: exploración de datos, preprocesamiento, manejo de desbalance de clases, modelado con **Random Forest, SVM y Logistic Regression**, optimización de hiperparámetros y análisis de resultados.
 
 Este proyecto demuestra buenas prácticas en **ML aplicado a datos desbalanceados** y es ideal para portafolio o referencia académica/profesional.
