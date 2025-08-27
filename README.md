@@ -45,13 +45,16 @@ Este proyecto demuestra buenas prácticas en **ML aplicado a datos desbalanceado
 - Visualización de la **importancia de las 10 características principales**:  
   *(Ejemplo generado con Random Forest)*
 
-![Feature Importance](images/feature_importance.png)
 
 - Matriz de confusión para cada modelo, facilitando la interpretación de errores.
 
 ---
 
 ## ⚡ Instalación
+
+## 📄 Licencia
+Este proyecto está bajo la licencia [MIT](LICENSE).
+
 
 1. Clonar el repositorio:
 ```bash
